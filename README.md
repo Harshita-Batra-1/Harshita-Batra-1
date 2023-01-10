@@ -4,13 +4,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshita-batra-1" alt="harshita-batra-1" /></a> </p>
 
-- 🔭 I’m currently working on **Driver Snoozing**
+- 🔭 I’m currently working on **Driver Snoozing Project**
 
 - 🌱 I’m currently learning **Full Stack**
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
-- 🤝 I’m looking for help with **SWOC**
+- 🤝 I’m looking for help with **SWOC23**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Harshita-Batra-1](https://github.com/Harshita-Batra-1)
 
