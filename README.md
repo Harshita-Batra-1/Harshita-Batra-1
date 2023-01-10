@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **SWOC23**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Harshita-Batra-1](https://github.com/Harshita-Batra-1)
+- 👨‍💻 All of my projects are available at [https://github.com/Harshita-Batra-1?tab=repositories](https://github.com/Harshita-Batra-1)
 
 - 📝 I regularly write articles on [https://www.mindfrey.com/](https://www.mindfrey.com/)
 
