@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshita-batra-1" alt="harshita-batra-1" /></a> </p>
 
-- 🔭 I’m currently working on **Driver Snoozing Project**
+- 🔭 I’m currently working on **Accident Control Measures Project**
 
 - 🌱 I’m currently learning **Full Stack**
 
