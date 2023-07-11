@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshita-batra-1&label=Profile%20views&color=0e75b6&style=flat" alt="harshita-batra-1" /> </p>
 
-- 🔭 I’m currently working on **Accident Control Measures Project**
+- 🔭 I’m currently working as **IKS Research Internship Fellow (IIT Mandi)**
 
 - 🌱 I’m currently learning **Full Stack**
 
