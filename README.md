@@ -1,4 +1,4 @@
-<h1 align="center">Hello!!👋 </h1>
+<h1 align="center">Hello Friends!!👋 </h1>
 <h3 align="left"> Myself Harshita Batra, a passionate coder</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshita-batra-1&label=Profile%20views&color=0e75b6&style=flat" alt="harshita-batra-1" /> </p>
