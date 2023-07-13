@@ -3,6 +3,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshita-batra-1&label=Profile%20views&color=0e75b6&style=flat" alt="harshita-batra-1" /> </p>
 
+<p align="center">
+  <img src="https://github.com/Harshita-Batra-1.gif" alt="Harshita Batra">
+</p>
+<p align="center">
+🌱 I'm a passionate Researcher, Coder, and Innovator in the field of Artificial Intelligence.
+<p align="center">
+<a href="mailto:batraharshita12@gmail.com">
+  <img src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" alt="email" width="100"/>
+</a>
+  
+<a href="https://www.linkedin.com/in/harshita-batra-ba8745200/">
+  <img src="https://www.freepnglogos.com/uploads/linkedin-in-logo-png-1.png" alt="linkedin" width="110"/>
+</a>
+</p>
 - 🔭 I’m currently working as **IKS Research Internship Fellow (IIT Mandi)**
 
 - 🌱 I’m currently learning **Full Stack**
