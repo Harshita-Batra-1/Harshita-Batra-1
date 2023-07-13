@@ -3,10 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshita-batra-1&label=Profile%20views&color=0e75b6&style=flat" alt="harshita-batra-1" /> </p>
 
-  <img src="https://github.com/Harshita-Batra-1/Harshita-Batra-1/blob/main/Harshita%20GIF.gif.gif" alt="Harshita Batra">
-
 🌱 I'm a passionate Researcher, Coder, and Innovator in the field of Artificial Intelligence.
-<p align="center">
+
 <a href="mailto:batraharshita12@gmail.com">
   <img src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" alt="email" width="100"/>
 </a>
