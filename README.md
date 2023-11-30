@@ -1,9 +1,9 @@
 <h1 align="center">Hello Friends!!👋 </h1>
-<h3 align="left"> Myself Harshita Batra, a passionate coder</h3>
+<h3 align="left"> Myself Harshita Batra, A passionate coder</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshita-batra-1&label=Profile%20views&color=0e75b6&style=flat" alt="harshita-batra-1" /> </p>
 
-🌱 I'm a passionate Researcher, Coder, and Innovator in the field of Artificial Intelligence.
+🌱 I'm a passionate Researcher, Coder, and Innovator in the field of Artificial Intelligence (focused on Machine Learning and computer Vision.
 
 <a href="mailto:batraharshita12@gmail.com">
   <img src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" alt="email" width="100"/>
@@ -13,13 +13,12 @@
   <img src="https://www.freepnglogos.com/uploads/linkedin-in-logo-png-1.png" alt="linkedin" width="110"/>
 </a>
 </p>
-- 🔭 I’m currently working as **IKS Research Internship Fellow (IIT Mandi)**
 
+- 🔭 I’m currently working as **IKS Research Fellow** [at IIT Mandi]
+  
 - 🌱 I’m currently learning **Full Stack**
 
 - 👯 I’m looking to collaborate on **Open source projects**
-
-- 🤝 I’m looking for help with **SWOC23**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Harshita-Batra-1?tab=repositories](https://github.com/Harshita-Batra-1)
 
