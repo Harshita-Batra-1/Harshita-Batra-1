@@ -1,9 +1,9 @@
 <h1 align="center">Hello Friends!!👋 </h1>
-<h3 align="left"> Myself Harshita Batra, A passionate coder</h3>
+<h3 align="left"> Myself Harshita Batra, A Passionate Coder</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshita-batra-1&label=Profile%20views&color=0e75b6&style=flat" alt="harshita-batra-1" /> </p>
 
-🌱 I'm a passionate Researcher, Coder, and Innovator in the field of Artificial Intelligence (focused on Machine Learning and computer Vision.
+🌱 I'm a passionate Researcher, Coder, and Innovator in the field of Artificial Intelligence (focused on Machine Learning and Computer Vision).
 
 <a href="mailto:batraharshita12@gmail.com">
   <img src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" alt="email" width="100"/>
