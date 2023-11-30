@@ -20,9 +20,9 @@
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Harshita-Batra-1?tab=repositories](https://github.com/Harshita-Batra-1)
+- 👨‍💻 All of my projects are available at [https://github.com/Harshita-Batra-1](https://github.com/Harshita-Batra-1?tab=repositories)
 
-- 📝 I regularly write articles on [https://www.mindfrey.com/](https://www.mindfrey.com/)
+- 📝 I regularly write articles on [https://www.mindfrey.com/](mindfrey.com/)
 
 - 💬 Ask me about **Machine learning, Deep Learning, A.I.**
 
