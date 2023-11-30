@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshita-batra-1&label=Profile%20views&color=0e75b6&style=flat" alt="harshita-batra-1" /> </p>
 
-🌱 I'm a passionate Researcher, Coder, and Innovator in the field of Artificial Intelligence (focused on Machine Learning and Computer Vision).
+🌱 I'm a passionate Researcher, Coder, and Innovator in the field of Artificial Intelligence (focused on Machine Learning and Computer Vision). Find my PCOS research at [Scopus Journal](https://192.168.100.1:6082/php/uid.php?vsys=1&rule=10&token=g6qURwrKHRa8oYCOCql6dNuFYk0=&url=http://www.ijpe-online.com%2fEN%2f10.23940%2fijpe.23.03.p5.193202) and [IEEE](https://ieeexplore.ieee.org/document/10183485)
 
 <a href="mailto:batraharshita12@gmail.com">
   <img src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" alt="email" width="100"/>
